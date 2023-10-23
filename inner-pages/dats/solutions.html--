@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Solutions|DATS-Digital Assets & Transformation Solutions</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" href="../../assets/images/favicon.ico">
+
+    <!-- CSS
+        ============================================ -->
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../../assets/css/vendor/bootstrap.min.css">
+
+    <!-- FontAwesome CSS -->
+    <link rel="stylesheet" href="../../assets/css/vendor/fontawesome-all.min.css">
+
+    <!-- Swiper slider CSS -->
+    <link rel="stylesheet" href="../../assets/css/plugins/swiper.min.css">
+
+    <!-- animate-text CSS -->
+    <link rel="stylesheet" href="../../assets/css/plugins/animate-text.css">
+
+    <!-- AOS CSS -->
+    <link href="../../assets/css/plugins/aos.css" rel="stylesheet">
+
+    <!-- Some Plugins CSS -->
+    <link href="../../assets/css/plugins/some-plugins.min.css" rel="stylesheet">
+
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="../../assets/css/plugins/animate.min.css">
+
+
+    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
+    <!--
+        <link rel="stylesheet" href="../../assets/css/vendor/vendor.min.css">
+        <link rel="stylesheet" href="../../assets/css/plugins/plugins.min.css">
+        -->
+
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="../../assets/css/style.css">
+
+</head>
+
+<body>
+
+
+    <div class="preloader-activate preloader-active open_tm_preloader">
+        <div class="preloader-area-wrap">
+            <div class="spinner d-flex justify-content-center align-items-center h-100">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+    </div>
+<div class="header-area header-area--default">
+
+       
+
+        <!-- Header Bottom Wrap Start -->
+        <div class="header-bottom-wrap header-area--absolute  header-sticky">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="header default-menu-style position-relative">
+
+                            <!-- brand logo -->
+                            <div class="header__logo">
+                                <a href="../../index.html">
+                                    <img src="../../assets/images/logo/dark-logo.png" class="img-fluid" alt="">
+                                </a>
+                            </div>
+
+                            <!-- header midle box  -->
+                            <div class="header-midle-box">
+                                <div class="header-bottom-wrap d-md-block d-none">
+                                    <div class="header-bottom-inner">
+                                        <div class="header-bottom-left-wrap">
+                                            <!-- navigation menu -->
+                                            <div class="header__navigation d-none d-lg-block">
+                                                <nav class="navigation-menu primary--menu">
+                                                    <ul>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="../../index.html"><span>HOME</span></a>
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="../../about-us.html"><span>ABOUT US</span></a>
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="services.html"><span>SERVICES</span></a>
+                                                            
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="solutions.html"><span>SOLUTIONS</span></a>
+                                                            
+                                                        </li>
+														 <li class="has-children">
+                                                            <a href="careers.html"><span>CAREERS</span></a>
+                                                        </li>
+                                                        <li class="has-children">
+                                                            <a href="contact-us.html"><span>CONTACT</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            <div class="mobile-navigation-icon d-block d-lg-none" id="mobile-menu-trigger">
+                                <i></i>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header Bottom Wrap End -->
+
+    </div>
+    <!--====================  End of header area  ====================-->
+
+    <!-- breadcrumb-area start -->
+    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/images/bg/start-up-breadcrumb_bg-02.png">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="breadcrumb_box text-left">
+                        <h3 class="breadcrumb-title text-color-primary mb-10">SOLUTIONS</h3>
+                        <p class="" align="justify">We help enterprises to transform to digital, keep pace with the various lines of business, operate more agilely, while simultaneously supporting rapid innovation of transformative capabilities. </br>
+						Every aspect of business from product innovation to distribution ,delivery to customer interaction is transforming at a rapid pace. 
+					There is a need for companies to reinvent, transform and quickly adapt to the new trends in order to stay relevant. </br>
+					For this they need a dependable technology partner for which there is DATS.</P>
+				</div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="breadcrumb_inner-img text-right">
+                        <img src="../../assets/images/bg/dats-6.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb-area end -->
+
+    <div class="site-wrapper-reveal">
+	
+  
+  <!-- breadcrumb-area start --
+    <div class="breadcrumb-area bg-img" ata-bg="../../assets/images/bg/solutions-bg.png" data-white-overlay="4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="breadcrumb_box text-left">
+                        <h2 class="breadcrumb-title title--default mb-10">Solutions</h2>
+                        <p>Together we help our clients solve their most complex challenges<br>
+                       Turning exciting ideas into tangible reality as we strive to find a better way and shape a better world. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb-area end --
+
+    <div class="site-wrapper-reveal">
+
+             
+    <!--=========== Portfolio Area Start ==========-->
+        <div class="portfolio-area  section-space--pt_60  section-space--pb_60">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="toll-solutions.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-01.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">TOLL SOLUTIONS</h4>
+                                                <p>DATS provides Manual,Electronic(ETC), Multi-Lane Free-Flow  and video based (ANPR)Tolling solutions. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="smart-its.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-06.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">SMART ITS</h4>
+                                                <p>Most Advanced Intelligent traffic management systems with vehicle classification and AI functionalities. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="software-development.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-05.png" class="img-fluid" alt="">
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">SOFTWARE DEVELOPMENT</h4>
+                                                <p>At DATS we help you build a core business model for creating your own digital disruptions- You dream We build. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                   <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="data-security.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-04.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">SYSTEMS & CYBER SECURITY </h4>
+                                                <p>State of the art Traffic systems & Cyber Security solutions </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                  <!--  <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="smart-city-applications.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-03.png" class="img-fluid" alt="">
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">SMART CITY APPLICATIONS</h4>
+                                                <p>The street light automation solution is an advanced solution that moves us closer to achieving the smart city dream. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div> 
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="parking-systems.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-02.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">PARKING SYSTEMS</h4>
+                                                <p>Advanced parking management application with ANPR,RFID like payment modes with fully parameterised remote back office.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="drone-apps.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-07.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">DRONE APPS</h4>
+                                                <p>Safe and cost effective supervision with our drone based application. You can supervise your assets in realtime through drones.</p>
+            
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="mobile-apps.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-08.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">MOBILE APPS</h4>
+                                                <p>Our team can build secured mobile applications on iOS and Android platforms, we dont have any limitations, you ask we will build.
+                                                    </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="startup-project-box">
+                            <a href="cloud-cctv.html">
+                                <div class="image-box">
+                                    <img src="../../assets/images/projects/startup-lg-project-09.png" class="img-fluid" alt="">
+
+                                    <div class="startup-project-hover">
+                                        <div class="post-overlay-info">
+                                            <div class="post-overlay-title">
+                                                <h4 class="mb-10 title--default">CLOUD CCTV APP</h4>
+                                                <p> Access all your CCTV cameras at one place without compromsing on video quality and speed, thanks to our cloud partners.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+		</div>
+        <!--=========== Portfolio Area End ==========
+    </div>
+
+        <!--============ Testimonials area Start ============ -->
+            <div class="testimonials-area section-space--pb_60">
+		 <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title-warp text-center section-space--mb_20">
+                            <h6 class="section-sub-title">Do you have project and want to hire our Solutions?</h6>
+                            <h3 class="mb-10 section-title">Discover Limitless Possibilities</h3>
+							<div class="align-items-center">
+							<div class="">
+								<a href="contact-us.html" class="ht-btn ht-btn-sm">Contact Us</a>
+							</div>
+                     </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<div class="testimonials-area section-space--pb_60">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5">
+                        <div class="section-title-wrap small-mb__40 tablet-mb__40">
+                            <h6 class="section-sub-title">Our Techological Partners</h6>
+                     </div>
+                </div>
+            </div>
+        </div>
+        <!--============ Testimonials area Start ============-->
+
+   <!--============ Testimonials area Start ============-->
+    
+        <!--============ Testimonials area Start ============-->
+        <!--============= Brand Area Start ===============-->
+        <div class="brand-area section-space--ptb_60">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 brand-box-wrap">
+					    <div class="single-brand-box">
+                            <a href="#"><img src="../../assets/images/brand/client-logo-01.png" alt=""></a>
+                        </div>
+                        <div class="single-brand-box">
+                            <a href="#"><img src="../../assets/images/brand/client-logo-02.png" alt=""></a>
+                        </div>
+                        <div class="single-brand-box">
+                            <a href="#"><img src="../../assets/images/brand/client-logo-03.png" alt=""></a>
+                        </div>
+                        <div class="single-brand-box">
+                            <a href="#"><img src="../../assets/images/brand/client-logo-04.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--============= Brand Area End ===============-->
+    
+    <!--====================  footer area ====================-->
+    <div class="footer-area-wrapper ">
+        <div class="footer-area section-space--ptb_120 bg-img footer-bg--overlay" data-bg="../../assets/images/bg/footer-bg-01.jpg">
+            <div class="container">
+                <div class="row footer-widget-wrapper">
+                    <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
+                        <div class="footer-widget__logo mb-30">
+                            <img src="../../assets/images/logo/white-logo.png" class="img-fluid" alt="">
+                        </div>
+                        <div class="footer-widget-dic">
+
+                            <p class="footer-dec" align="justify">DATS is an independent firm of designers, planners, engineers, consultants and software technical specialists, working across every aspect of Roads & Highways. Together we help our clients solve their most complex challenges.</p>
+
+                            <div class="newsletter-footer-wrap mt-20">
+                                <h5 class="mb-10">Subscribe Newsletter</h5>
+                                 <div class="newsletter-footer mt-20">
+                                    <form action="#" class="widget-newsletter-form">
+                                        <input type="text" placeholder="Enter your email">
+                                        <div class="subscribe-button">
+                                            <button class="subscribe-btn">Subscribe</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <ul class="list ht-social-networks mt-30">
+
+                                <li class="item">
+                                    <a href="https://facebook.com" target="_blank">
+                                        <i class="fa fa-facebook-f link-icon"></i>
+                                    </a>
+                                </li>
+                                <li class="item">
+                                    <a href="https://twitter.com" target="_blank">
+                                        <i class="fa fa-twitter link-icon"></i>
+                                    </a>
+                                </li>
+                                <li class="item">
+                                    <a href="https://instagram.com" target="_blank">
+                                        <i class="fa fa-instagram link-icon"></i>
+                                    </a>
+                                </li>
+                                <li class="item">
+                                    <a href="https://linkedin.com" target="_blank">
+                                        <i class="fa fa-linkedin link-icon"></i>
+                                    </a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-12 col-sm-12">
+                        <div class="coustom-row-in-footer">
+                            <div class="footer-widget-coustom-col footer-widget">
+                                <h4 class="footer-widget__title mb-20 text-white">Useful Links</h4>
+                                <ul class="footer-widget__item-list">
+                                    <li><a href="about-us.html" class="hover-style-link">About us</a></li>
+                                    <li><a href="services.html" class="hover-style-link">Our Services</a></li>
+                                    <li><a href="solutions.html" class="hover-style-link">Our Solutions</a></li>
+                                    <li><a href="#" class="hover-style-link">Our Team</a></li>
+									<li><a href="careers.html" class="hover-style-link">Careers</a></li>
+                                    <li><a href="contact-us.html" class="hover-style-link">Contact us</a></li>
+                                </ul>
+                                <ul class="footer-widget__item-list">
+                                    <li><a href="#" class="hover-style-link">Online Support</a></li>
+                                    <li><a href="#" class="hover-style-link">Our Partners</a></li>
+                                    <li><a href="#" class="hover-style-link">Tech Zone</a></li>
+                                    <li><a href="#" class="hover-style-link">Our Offices</a></li>
+                                </ul>
+                            </div>
+                           <div class="footer-widget-coustom-col footer-widget">
+                                <h4 class="footer-widget__title mb-20 text-white">Contact Info</h4>
+                                <div class="footer-widget__list">
+                                    <div class="single-footer-widger">
+                                        <h5>Address</h5>
+                                        <p>C/Industria ,276 </br> 08026,Barcelona,Spain.</p>
+										<p>12,Longcroft Close basingstoke </br> RG218XG,Hampshire,England.</p>
+                                    </div>
+                                    <div class="single-footer-widger">
+                                        <h5>Phone</h5>
+                                        <p>+34 644 751 957 <br></p>
+										<p>+44 7894708983 <br></p>
+                                    </div>
+                                    <div class="single-footer-widger">
+                                        <h5>Web</h5>
+                                        <p>
+                                            <a href="#">info(@)datsweb.com</a> <br>
+                                            <a href="#">www.datsweb.com</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-4 col-md-4 col-sm-6 footer-widget">
+                        
+                    </div>-->
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright-area mt-25 mb-25">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-12 text-center">
+                            <span class="copyright-text">Copyright &copy; <a href="https://datsweb.com" target="_blank" >All Rights Reserved.</a> DATS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--====================  End of footer area  ====================-->
+
+    <!--====================  scroll top ====================-->
+    <a href="#" class="scroll-top" id="scroll-top">
+        <i class="arrow-top  fa fa-angle-double-up"></i>
+        <i class="arrow-bottom fa fa-angle-double-up"></i>
+    </a>
+    <!--====================  End of scroll top  ====================-->
+
+    <!--====================  mobile menu overlay ====================-->
+    <div class="mobile-menu-overlay" id="mobile-menu-overlay">
+        <div class="mobile-menu-overlay__inner">
+            <div class="mobile-menu-overlay__header">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-md-6 col-8">
+                            <!-- logo -->
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="../../assets/images/logo/dark-logo.png" class="img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-4">
+                            <!-- mobile menu content -->
+                            <div class="mobile-menu-content text-right">
+                                <span class="mobile-navigation-close-icon" id="mobile-menu-close-trigger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mobile-menu-overlay__body">
+                <nav class="offcanvas-navigation">
+                    <ul>
+                        <li class="has-children has-children--multilevel-submenu">
+                            <a href="inner-pages/dats/index.html"><span>HOME</span></a>
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="about-us.html"><span>ABOUT US</span></a>
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="services.html"><span>SERVICES</span></a>
+                                                            
+                                                        </li>
+                                                        <li class="has-children has-children--multilevel-submenu">
+                                                            <a href="solutions.html"><span>SOLUTIONS</span></a>
+                                                            
+                                                        </li>
+														 <li class="has-children">
+                                                            <a href="contact-us.html"><span>CAREERS</span></a>
+                                                        </li>
+                                                        <li class="has-children">
+                                                            <a href="contact-us.html"><span>CONTACT</span></a>
+                                                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!--====================  End of mobile menu overlay  ====================-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- JS
+    ============================================ -->
+    <!-- Modernizer JS -->
+    <script src="../../assets/js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- jQuery JS -->
+    <script src="../../assets/js/vendor/jquery-3.3.1.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="../../assets/js/vendor/bootstrap.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="../../assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="../../assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter down JS -->
+    <script src="../../assets/js/plugins/countdown.min.js"></script>
+
+    <!-- Isotope JS -->
+    <script src="../../assets/js/plugins/isotope.min.js"></script>
+
+    <!-- Masonry JS -->
+    <script src="../../assets/js/plugins/masonry.min.js"></script>
+
+    <!-- ImagesLoaded JS -->
+    <script src="../../assets/js/plugins/images-loaded.min.js"></script>
+
+    <!-- counterup JS -->
+    <script src="../../assets/js/plugins/counterup.min.js"></script>
+
+    <!-- wow JS -->
+    <script src="../../assets/js/plugins/wow.min.js"></script>
+
+    <!-- AOS JS -->
+    <script src="../../assets/js/plugins/aos.js"></script>
+
+    <!-- Some plugins JS -->
+    <script src="../../assets/js/plugins/some-plugins.js"></script>
+
+
+    <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
+
+    <!--
+    <script src="../../assets/js/plugins/plugins.min.js"></script>
+    -->
+
+    <!-- Main JS -->
+    <script src="../../assets/js/main.js"></script>
+
+
+</body>
+
+
+<!-- Mirrored from demo.hasthemes.com/bruce-preview/inner-pages/start-up/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 May 2020 07:26:59 GMT -->
+</html>
