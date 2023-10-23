@@ -25,12 +25,11 @@ form.addEventListener("submit", function (event) {
       console.log("Email sent successfully", response);
       responseDiv.innerHTML =
         "You have submitted your contact details successfully!";
+      form.reset();
     },
     function (error) {
       console.error("Email could not be sent", error);
       responseDiv.innerHTML = "Email could not be sent. Please try again.";
     }
   );
-
-  form.reset();
 });
